@@ -1,0 +1,6 @@
+rootProject.name = 'ssm-parent'
+include 'ssm-entity'
+include 'ssm-mapper'
+include 'ssm-service'
+include 'ssm-controller'
+
